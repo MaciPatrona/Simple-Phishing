@@ -30,7 +30,7 @@ A powerful Flask-based login logging system that captures detailed information a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/login-logger.git
+git clone https://github.com/MaciPatrona/login-logger.git
 cd login-logger
 ```
 
@@ -127,9 +127,6 @@ If you encounter any issues or have questions:
 - Submit a pull request
 - Contact the maintainers
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/login-logger&type=Date)](https://star-history.com/#yourusername/login-logger&Date)
 
 ---
-Made with ❤️ by [Your Name] 
+Made with ❤️ by [MaciPatrona] 
