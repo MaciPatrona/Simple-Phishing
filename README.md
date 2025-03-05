@@ -1,4 +1,4 @@
-# 🔒 Login Logger
+# 🔒 Simple-Phishing
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.0.2-green.svg)
